@@ -1,2 +1,0 @@
-This application analyses the behaviour of the user by predicting the type of content the user is interested in.
-It takes input in the form of a string(word) and correspondingly gives output in the form of prediction.
