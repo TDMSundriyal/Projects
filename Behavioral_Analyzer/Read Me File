@@ -1,0 +1,2 @@
+This project analyses the behaviour of the user by predicting what type of content the user is interested in.
+The application takes the input string(word) from the user and corrrespondingly gives the output in the form of prediction.
