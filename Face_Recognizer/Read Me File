@@ -1,0 +1,4 @@
+This application recognizes the user by their face.
+It acceses the device's camera and captures the image of the user.
+The captured image is matched with the already feeded images from the database.
+It shows the name of the identified user.
